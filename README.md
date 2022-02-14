@@ -3,7 +3,6 @@
 </h3>
 
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebucks27&label=Profile%20views&color=0e75b6&style=flat" alt="codebucks27" /> </p>
 
 
 - 📝 I regularly write articles on [https://dev.to/codebucks](https://dev.to/codebucks) 
