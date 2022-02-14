@@ -5,21 +5,14 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebucks27&label=Profile%20views&color=0e75b6&style=flat" alt="codebucks27" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebucks27" alt="codebucks27" /></a> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/code_bucks" target="blank"><img src="https://img.shields.io/twitter/follow/code_bucks?logo=twitter&style=for-the-badge" alt="code_bucks" /></a> </p> -->
-
-- 🔭 I’m currently working on [CodeBucks](https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA) (My YouTube Channel)
 
 - 📝 I regularly write articles on [https://dev.to/codebucks](https://dev.to/codebucks) 
 
-- 💬 Ask me about **React, Redux, GraphQl, NextJS**
+- 💬 Ask me about **React, Django, Machine Learning**
 
-- 📫 How to reach me **codebucks27@gmail.com**
+- 📫 How to reach me **younus8imran@gmail.com**
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 </br>
 
 <h3 align="left">▶ Connect with me:</h3>
@@ -37,11 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebucks27&show_icons=true&locale=en" alt="codebucks27" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebucks27&" alt="codebucks27" /></p> -->
-</br>
-
-<h3 align="left">▶ Support:</h3>
-<p><a href="https://www.buymeacoffee.com/CodeBucks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeBucks" /></a></p><br><br>
 
 <!-- ### Hi there 👋
 
