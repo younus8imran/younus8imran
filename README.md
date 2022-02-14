@@ -5,7 +5,7 @@
 </br>
 
 
-- 📝 I regularly write articles on [https://dev.to/codebucks](https://dev.to/codebucks) 
+- 📝 I regularly write articles on [https://miran-blog.herokuapp.com/](https://dev.to/codebucks) 
 
 - 💬 Ask me about **React, Django, Machine Learning**
 
