@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran</h1>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=younus8imran.younus8imran) [![Github](https://img.shields.io/github/followers/younus8imran?label=Followers&logo=Github)](https://github.com/younus8imran)
 <h3 align="center">A Budding Fullstack Developer. Love to build websites with the latest technologies 
 </h3>
 <br>
