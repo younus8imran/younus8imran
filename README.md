@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Imran</h1>
 <h3 align="center">A Budding Fullstack Developer. Love to build websites with the latest technologies 
 </h3>
+<br>
+![](https://visitor-badge.laobi.icu/badge?page_id=younus8imran.younus8imran)
+
 
 </br>
 
