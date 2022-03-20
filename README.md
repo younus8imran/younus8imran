@@ -4,6 +4,10 @@
 <br>
 ![](https://visitor-badge.laobi.icu/badge?page_id=younus8imran.younus8imran)
 
+<br> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
+
 
 </br>
 
