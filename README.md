@@ -1,7 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Imran</h1>
-<div>
-  ![](https://komarev.com/ghpvc/?username=younus8imran)
-</div>
+[![Visits Badge](https://badges.pufler.dev/visits/younus8imran/younus8imran)](https://josedromero.com)
 ## <h3>I'm a budding Fullstack Developer</h3>
 - Here's my blog site that i built using django https://miran-blog.herokuapp.com/
 - I love to explore new technologies
