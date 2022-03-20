@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Imran</h1>
-#I'm a budding Fullstack Developer
+## <h3>I'm a budding Fullstack Developer</h3>
 - Here's my blog site that i built using django and bootstrap https://miran-blog.herokuapp.com/
 - I love to explore new technologies
 - Currently learning Machine Learning
