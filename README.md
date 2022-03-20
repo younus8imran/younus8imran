@@ -20,6 +20,16 @@
 
 - 📫 How to reach me **younus8imran@gmail.com**
 
+<br>
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=younus8imran&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=younus8imran&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=younus8imran&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younus8imran&hide=php&theme=tokyonight" />
+</a>
+</div>
+
 
 </br>
 
