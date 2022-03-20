@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm Imran</h1>
 <div>
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
+  ![](https://komarev.com/ghpvc/?username=younus8imran)
 </div>
 ## <h3>I'm a budding Fullstack Developer</h3>
 - Here's my blog site that i built using django https://miran-blog.herokuapp.com/
