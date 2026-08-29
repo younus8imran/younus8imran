@@ -1,10 +1,15 @@
-## Backend Engineer | LLM & RAG Systems
+<div align="center">
 
-Python backend engineer with 4+ years building scalable systems and production-grade LLM applications. Currently focused on RAG architectures, multi-agent workflows, and backend automation.
+# Backend Engineer | LLM & RAG Systems Specialist
+
+Python backend engineer with 4+ years building scalable systems and production-grade LLM applications.
+Currently focused on RAG architectures, multi-agent workflows, and backend automation.
+
+</div>
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Frameworks**
 
@@ -16,14 +21,15 @@ Python backend engineer with 4+ years building scalable systems and production-g
 
 **AI & LLM**
 
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D2D2D?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-000000?style=flat&logoColor=white)
 
 **Data & Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-3D5A80?style=flat&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logoColor=white)
 
 **Infrastructure & DevOps**
@@ -34,16 +40,16 @@ Python backend engineer with 4+ years building scalable systems and production-g
 
 ---
 
-### Currently Exploring
+### 🔭 Currently Exploring
 
 - Building production RAG systems with hybrid search and reranking
 - Multi-agent orchestration with LangGraph
-- Vector database optimization for semantic search
+- Vector database optimization for semantic search at scale
 - Backend automation pipelines with n8n and FastAPI
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -57,17 +63,21 @@ Python backend engineer with 4+ years building scalable systems and production-g
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-_Coming soon — RAG systems, LLM agents, and backend tooling._
+> Coming soon — RAG systems, LLM agents, and backend tooling.
 
 ---
 
-### Connect
+### 📫 Connect
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/younus8imran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/younus8imran)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:younus8imran@gmail.com)
+
+</div>
 
 ---
 
