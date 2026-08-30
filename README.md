@@ -2,7 +2,7 @@
 
 # Hi, I'm Imran 👋
 
-### Backend Engineer | LLM & RAG Systems Specialist
+### Backend Engineer | LLM & RAG System
 
 Python backend engineer with 4+ years building scalable systems and production-grade LLM applications.
 Currently focused on **RAG architectures**, **multi-agent workflows**, and **backend automation**.
