@@ -2,7 +2,7 @@
 
 # Hi, I'm Imran 👋
 
-### Backend Engineer | LLM & RAG System
+### Backend Engineer | LLM & RAG Systems
 
 Python backend engineer with 4+ years building scalable systems and production-grade LLM applications.
 Currently focused on **RAG architectures**, **multi-agent workflows**, and **backend automation**.
@@ -66,6 +66,10 @@ A fully local, privacy-first RAG pipeline — upload documents, ask questions, g
 Real-time medical-charge predictor that estimates insurance costs from demographic and health attributes, with automated model selection via GridSearchCV, MLflow experiment tracking, and a FastAPI-served UI — all containerized with Docker Compose.
 **Stack:** `Python` `FastAPI` `MLflow` `Docker` `scikit-learn`
 
+### 📚 [Bookly](https://github.com/younus8imran/bookly)
+A modern, full-stack book review platform for discovering, tracking, and reviewing your reading journey. JWT-secured FastAPI backend with Redis-backed token management and PostgreSQL, paired with a sleek React + TypeScript frontend for browsing books, writing reviews, and rating with stars.
+**Stack:** `FastAPI` `SQLAlchemy` `PostgreSQL` `Redis` `React` `TypeScript` `Tailwind CSS`
+
 ### 📦 [Order Management System](https://github.com/younus8imran/OrderManagementSystem)
 A RESTful API for managing customers, products, and orders — with automatic inventory updates, order-total calculation, and full status tracking (Pending → Shipped → Delivered), built on .NET 10 and EF Core.
 **Stack:** `.NET 10` `EF Core` `SQLite` `REST API`
@@ -73,10 +77,6 @@ A RESTful API for managing customers, products, and orders — with automatic in
 ### 👕 [Fashion-MNIST Image Classifier](https://github.com/younus8imran/ImageClassifier)
 A convolutional neural network built with PyTorch to classify clothing images into 10 categories, reaching **90.3% test accuracy**, with full training visualization and prediction helpers.
 **Stack:** `PyTorch` `CNN` `Matplotlib`
-
-### 📚 [BookStore Management](https://github.com/younus8imran/BookStoreManagement)
-An ASP.NET MVC application for managing book inventory, sales, and customer orders, with identity-based auth and EF Core database migrations.
-**Stack:** `ASP.NET MVC` `EF Core` `SQL Server`
 
 ### ✍️ [Blog Site](https://github.com/younus8imran/blog-site)
 A full-featured blogging platform built with Django, complete with a WYSIWYG editor for rich content creation, deployed on Heroku.
